@@ -1,0 +1,15 @@
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\bin\Debug\SYRIS Mini.exe.config
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\bin\Debug\SYRIS Mini.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\bin\Debug\SYRIS Mini.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS Mini.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS_Mini.Properties.Resources.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS Mini.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS Mini.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS Mini.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\20201022\SYWEB-V8-Workstation(Delta)\SYRIS Mini\obj\Debug\SYRIS_Mini.MainFrm.resources
+C:\Users\jashliao\Desktop\SYRIS Mini\bin\Debug\SYRIS Mini.exe.config
+C:\Users\jashliao\Desktop\SYRIS Mini\obj\Debug\SYRIS Mini.exe
+C:\Users\jashliao\Desktop\SYRIS Mini\obj\Debug\SYRIS Mini.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#\CS_CMS_Mini\bin\Debug\SYRIS Mini.exe.config
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#\CS_CMS_Mini\obj\Debug\SYRIS Mini.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#\CS_CMS_Mini\obj\Debug\SYRIS Mini.pdb

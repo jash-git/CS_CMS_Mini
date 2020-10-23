@@ -1,0 +1,14 @@
+m_StrMainMenu01,裝置管理
+m_StrMainMenu02,人員卡片管理
+m_StrMainMenu03,進出紀錄
+m_StrMainMenu04,系統設定
+m_StrSubMenu01_01,裝置管理
+m_StrSubMenu01_02,門區區域管理
+m_StrSubMenu02_01,人員
+m_StrSubMenu02_02,授權
+m_StrSubMenu02_03,發卡紀錄
+m_StrSubMenu03_01,進出紀錄
+m_StrSubMenu03_02,異常紀錄
+m_StrSubMenu03_03,門區進出紀錄
+m_StrSubMenu03_04,人員進出紀錄
+m_StrSubMenu04_01,用戶管理
